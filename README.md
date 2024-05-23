@@ -1,4 +1,4 @@
-# Caaring
+# Cab share app
 A simple Cab Sharing app made with Django. People can create new cab or request to join an existing cab. It is just for grouping, actual cab is not booked via this app.
 
 ## Features:
